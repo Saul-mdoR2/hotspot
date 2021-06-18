@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">hotspot</string>
-    <string name="text_btn_activar">Activar</string>
-    <string name="text_btn_desactivar">Desactivar</string>
+    <string name="text_btn_activar">Activar Hotspot</string>
 </resources>
